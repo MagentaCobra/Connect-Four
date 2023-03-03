@@ -1,8 +1,4 @@
-/*
-I cannot explain this reaction
-Seggs Faults
-Motivation is not easy to come by
- */
+
 import static java.lang.Math.*;
 import java.util.*;
 import java.io.*;
@@ -304,4 +300,3 @@ class State
         return sb.toString();
     }
 }
-Write to Ray Bai
